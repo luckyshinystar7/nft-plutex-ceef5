@@ -1,6 +1,8 @@
 # ERC721 NFT Marketplace 
 
 🔗Website LINK: https://plutex-ceef5.web.app/home
+![plutex-ceef5 web app](https://github.com/user-attachments/assets/43a2d529-ed60-4b8b-813a-a7fc9f1a3f30)
+
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/silviopaganini/nft-market?style=round)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=round)](https://github.com/prettier/prettier)
